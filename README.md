@@ -1,0 +1,1 @@
+A Laravel + Vue Js app for pos support and inventory management
